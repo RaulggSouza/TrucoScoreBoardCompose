@@ -56,7 +56,7 @@ fun ScoreButtons(
             } else {
                 Toast.makeText(
                     context,
-                    "Mão de onde de $teamName",
+                    "Mão de onze de $teamName",
                     Toast.LENGTH_SHORT
                 ).show()
             }
